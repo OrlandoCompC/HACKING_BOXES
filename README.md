@@ -58,6 +58,11 @@
 
 [Sightless (User flag)](BOXES%20SOLVED%20d8871429389d4db9a0b626c7df013ab6/Sightless%20(User%20flag)%20bc949b1212d640708dff168ac5297cf5.md)
 
+
+# Windows
+[LEGACY](Legacy.pdf)
+[DEVEL(DEVEL.pdf)
+
 # Active Directory
 
 [CICADA](BOXES%20SOLVED%20d8871429389d4db9a0b626c7df013ab6/CICADA%2011124f42a85b80f38c95e2ddacd52bc4.md)
@@ -66,5 +71,5 @@
 
 [ACTIVE](Active.pdf)
 
-[LEGACY](Legacy.pdf)
+
 

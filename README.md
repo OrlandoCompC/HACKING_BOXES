@@ -79,5 +79,8 @@
 
 [ACTIVE](Active.pdf)
 
+[RETURN](RETURN.pdf)
 
+[SAUNA](Sauna.pdf)
 
+[Timelapse](Timelapse.pdf)

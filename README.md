@@ -66,6 +66,11 @@
 
 [ACCESS](Access.pdf)
 
+[LOVE](LOVE.pdf)
+
+[Remote](REMOTE.pdf)
+
+
 # Active Directory
 
 [CICADA](BOXES%20SOLVED%20d8871429389d4db9a0b626c7df013ab6/CICADA%2011124f42a85b80f38c95e2ddacd52bc4.md)

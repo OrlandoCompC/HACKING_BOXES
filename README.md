@@ -68,7 +68,7 @@
 
 [LOVE](LOVE.pdf)
 
-[Remote](REMOTE.pdf)
+[REMOTE](Remote.pdf)
 
 
 # Active Directory

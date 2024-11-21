@@ -88,3 +88,6 @@
 [ESCAPE](ESCAPE.pdf)
 
 [ADMINISTRATOR](ADMINISTRATOR.pdf)
+
+[Manager](Manager.pdf)
+
